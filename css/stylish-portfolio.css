@@ -26,6 +26,12 @@ body {
   text-transform: uppercase;
 }
 
+#me {
+  width: 40%;
+  padding: 30px;
+  border-radius: 50px;
+}
+
 h1,
 h2,
 h3,
